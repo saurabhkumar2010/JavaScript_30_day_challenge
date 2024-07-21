@@ -13,7 +13,7 @@ checkEven(6);
 function square(n){
     return (n*n);
 }
-console.log(square(4));
+console.log(square(4));   
 
 // Activity2: Function Expression
 // task3
@@ -37,10 +37,10 @@ let sum = (n1,n2)=>{
 
 }
 
-console.log(sum(5,5))
+console.log(sum(5,5)) 
 
 // task 6
-let checkCharacter = (str,c) => {
+let checkCharacter = (str,c) => {   
     for(let i=0; i<str.length; i++){
         if(str[i]==c){
             return true;
