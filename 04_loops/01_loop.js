@@ -50,7 +50,7 @@ for(let i=0; i<n; i++){
 }
 
 
-// Activity 5: Loop control structure
+// Activity 5: Loop control structure                  
 for(let i=1; i<=10; i++){
     if(i==5)
         continue;

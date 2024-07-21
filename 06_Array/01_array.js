@@ -65,6 +65,6 @@ for(let i=0; i<brr.length; i++){
 }
 
 // task13
-console.log(brr[2][0])
+console.log(brr[2][0]) 
 
 

@@ -12,7 +12,7 @@ checkEven(6);
 // task2
 function square(n){
     return (n*n);
-}
+}                                       
 console.log(square(4));
 
 // Activity2: Function Expression
