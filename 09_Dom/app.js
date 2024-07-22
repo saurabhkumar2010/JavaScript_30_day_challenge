@@ -46,6 +46,8 @@ const bt = document.querySelector("#myBtn");
 //     para.textContent = "Text is changed now";
 // });
 
+
+// task 10(uncomplete)
 myElement.addEventListener('click',()=>{
     myElement.style.border.color = "red"
 })
